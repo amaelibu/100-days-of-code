@@ -18,10 +18,21 @@
 **Link(s) to work**: {day 2 Tweet] (https://twitter.com/amaelibu/status/1183813260262420481)
 
 
-### Day 3: 
+### Day 3: October 15, 2019
 
-**Today's Progress**: 
+**Today's Progress**: The freeCodeCamp site was down for maintenance, so I reviewed notes and watched various YouTube videos on HTML for an hour.
 
-**Thoughts** 
+**Thoughts** I am looking forward to seeing the updates and continuing with the lessons.
 
-**Link(s) to work**
+**Link(s) to work** {day 3 Tweet] (https://twitter.com/amaelibu/status/1184207862324748289)
+
+### Day 4: 
+##### 
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**: {day 4 Tweet] 
+
+
