@@ -33,6 +33,6 @@
 
 **Thoughts**: 
 
-**Link(s) to work**: {day 4 Tweet] 
+**Link(s) to work**: {day 4 Tweet] (https://mobile.twitter.com/amaelibu/status/1184635817215582213)
 
 
