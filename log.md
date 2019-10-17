@@ -26,12 +26,12 @@
 
 **Link(s) to work** {day 3 Tweet] (https://twitter.com/amaelibu/status/1184207862324748289)
 
-### Day 4: 
+### Day 4: October 16, 2019
 ##### 
 
-**Today's Progress**:
+**Today's Progress**:rewatched 2 of the shorter videos from yesterday and completed 3 lessons.
 
-**Thoughts**: 
+**Thoughts**: thankful for website uodates and regained access. combo of website, videos, and articles building strong foundational knowledge.
 
 **Link(s) to work**: {day 4 Tweet] (https://mobile.twitter.com/amaelibu/status/1184635817215582213)
 
