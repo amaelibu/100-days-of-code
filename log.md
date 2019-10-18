@@ -36,3 +36,13 @@
 **Link(s) to work**: {day 4 Tweet] (https://mobile.twitter.com/amaelibu/status/1184635817215582213)
 
 
+### Day 5: October 17, 2019
+##### 
+
+**Today's Progress**:watched part of longer video tutorial 2x while taking notes
+
+**Thoughts**: this video clarified many of the basics and explained logic. planning to compkete rest of video (1.5 hours) in same manner over next few days and then follow along before rrtunong to tutorial website.thankful for website uodates and regained access. 
+
+**Link(s) to work**: {day 4 Tweet] (https://mobile.twitter.com/amaelibu/status/1185004470696120321)
+
+
