@@ -31,7 +31,7 @@
 
 **Today's Progress**:rewatched 2 of the shorter videos from yesterday and completed 3 lessons.
 
-**Thoughts**: thankful for website uodates and regained access. combo of website, videos, and articles building strong foundational knowledge.
+**Thoughts**: thankful for website updates and regained access. combo of website, videos, and articles building strong foundational knowledge.
 
 **Link(s) to work**: {day 4 Tweet] (https://mobile.twitter.com/amaelibu/status/1184635817215582213)
 
@@ -41,8 +41,18 @@
 
 **Today's Progress**:watched part of longer video tutorial 2x while taking notes
 
-**Thoughts**: this video clarified many of the basics and explained logic. planning to compkete rest of video (1.5 hours) in same manner over next few days and then follow along before rrtunong to tutorial website.thankful for website uodates and regained access. 
+**Thoughts**: this video clarified many of the basics and explained logic. planning to complete rest of video (1.5 hours) in same manner over next few days and then follow along before returning to tutorial website.thankful for website updates and regained access. 
 
-**Link(s) to work**: {day 4 Tweet] (https://mobile.twitter.com/amaelibu/status/1185004470696120321)
+**Link(s) to work**: {day 5 Tweet] (https://mobile.twitter.com/amaelibu/status/1185004470696120321)
+
+
+### Day 6: October 18, 2019
+##### 
+
+**Today's Progress**:watched 40 minute segment of longer video tutorial 3x while taking notes
+
+**Thoughts**: more answers this evening. learned about basic HTML structure, tags, and SEOthis video clarified many of the basics and explained logic. thinking about creating a resume in HTML
+
+**Link(s) to work**: {day 6 Tweet] (https://mobile.twitter.com/amaelibu/status/1185396373199491073)
 
 
