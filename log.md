@@ -66,3 +66,11 @@
 **Link(s) to work**: {day 7 Tweet] (https://mobile.twitter.com/amaelibu/status/1185733965535154177)
 
 
+### Day 8: October 20, 2019
+##### 
+
+**Today's Progress**:viewed 45 minute segment of longer video once (stopping and starting)
+
+**Thoughts**: real time examples (page refresh) have been so helpful for understanding. only 15 more minutes left in tutorial. looking forward to rewatching and returning to website.
+
+**Link(s) to work**: {day 8 Tweet] (https://mobile.twitter.com/amaelibu/status/1186015759555813376)
