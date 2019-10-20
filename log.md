@@ -56,3 +56,13 @@
 **Link(s) to work**: {day 6 Tweet] (https://mobile.twitter.com/amaelibu/status/1185396373199491073)
 
 
+### Day 7: October 19, 2019
+##### 
+
+**Today's Progress**:watched 35 minute segment of longer video 2x
+
+**Thoughts**: gaining more understanding of HTML. can't believe I coded 2 sites from WordPad almost 10 years ago.things much clearer this time around. 
+
+**Link(s) to work**: {day 7 Tweet] (https://mobile.twitter.com/amaelibu/status/1185733965535154177)
+
+
