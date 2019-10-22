@@ -76,7 +76,7 @@
 **Link(s) to work**: {day 8 Tweet] (https://mobile.twitter.com/amaelibu/status/1186015759555813376)
 
 
-### Day 8: October 21, 2019
+### Day 9: October 21, 2019
 ##### 
 
 **Today's Progress**: completed last segment of video and rewatched first 20 minute portion. will continue online lessons tomorrow.
