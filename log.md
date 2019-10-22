@@ -74,3 +74,13 @@
 **Thoughts**: real time examples (page refresh) have been so helpful for understanding. only 15 more minutes left in tutorial. looking forward to rewatching and returning to website.
 
 **Link(s) to work**: {day 8 Tweet] (https://mobile.twitter.com/amaelibu/status/1186015759555813376)
+
+
+### Day 8: October 21, 2019
+##### 
+
+**Today's Progress**: completed last segment of video and rewatched first 20 minute portion. will continue online lessons tomorrow.
+
+**Thoughts**: the video really helped me to put things into context and get a better grip on the terminology.
+
+**Link(s) to work**: {day 9 Tweet] (https://mobile.twitter.com/amaelibu/status/1186473788155846658)
