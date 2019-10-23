@@ -8,6 +8,7 @@
 **Thoughts:** Whoa! I got a lot of red error messages on here; happy for the ability to track changes and undo. 
 **Link to work:** {day 1 Tweet](https://twitter.com/amaelibu/status/1183484239116943361)
 
+
 ### Day 2: October 14, 2019
 ##### 
 
@@ -25,6 +26,7 @@
 **Thoughts** I am looking forward to seeing the updates and continuing with the lessons.
 
 **Link(s) to work** {day 3 Tweet] (https://twitter.com/amaelibu/status/1184207862324748289)
+
 
 ### Day 4: October 16, 2019
 ##### 
