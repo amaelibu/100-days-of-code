@@ -84,3 +84,14 @@
 **Thoughts**: the video really helped me to put things into context and get a better grip on the terminology.
 
 **Link(s) to work**: {day 9 Tweet] (https://mobile.twitter.com/amaelibu/status/1186473788155846658)
+
+
+### Day 10: October 21, 2019
+##### 
+
+**Today's Progress**: worked for about an hour and 45 minutes this evening. returned to the freeCodeCamp site and worked through serveal lessons. had to use one hint; solution was to reorder a section of the code.
+
+**Thoughts**: i found myself having fun and understanding the logic of the code, which is a direct result of viewing/working through the YouTube HTML/html5 tutorial video.
+
+**Link(s) to work**: {day 10 Tweet] (https://twitter.com/amaelibu/status/1186799959313657857)
+
