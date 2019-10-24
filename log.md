@@ -88,7 +88,7 @@
 **Link(s) to work**: {day 9 Tweet] (https://mobile.twitter.com/amaelibu/status/1186473788155846658)
 
 
-### Day 10: October 21, 2019
+### Day 10: October 22, 2019
 ##### 
 
 **Today's Progress**: worked for about an hour and 45 minutes this evening. returned to the freeCodeCamp site and worked through serveal lessons. had to use one hint; solution was to reorder a section of the code.
@@ -97,3 +97,13 @@
 
 **Link(s) to work**: {day 10 Tweet] (https://twitter.com/amaelibu/status/1186799959313657857)
 
+
+### Day 11: October 23, 2019
+##### 
+
+**Today's Progress**: used hour to attempt to format resume in HTML5
+
+
+**Thoughts**: this mini-challenge highlighted areas to revisit as well as helped me see that this is doable
+
+**Link(s) to work**: {day 10 Tweet] (https://mobile.twitter.com/amaelibu/status/1187201277081673729)
