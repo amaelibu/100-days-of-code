@@ -109,7 +109,7 @@
 **Link(s) to work**: {day 10 Tweet] (https://mobile.twitter.com/amaelibu/status/1187201277081673729)
 
 
-### Day 12-18: October 24 - October 30, 2019
+### Days 12-18: October 24 - October 30, 2019
 ##### 
 
 **Progress**: read & worked through several #html tutorials on #w3school. also read articles on  #freeCodeCamp site.
@@ -118,4 +118,11 @@
 **Link(s) to work**: {day 12-18 Tweet] (https://twitter.com/amaelibu/status/1189894290568286208)
 
 
+### Days 19-23: October 30 - November 3, 2019
+##### 
+
+**Progress**:  completed the basic html and html 5 tutorial. began the CSS tutorial on  #freeCodeCamp site.
+**Thoughts**: need to do better! recommitting to logging each day. new computer will be ordered this week.
+
+**Link(s) to work**: {days 19-23 Tweet] (https://twitter.com/amaelibu/status/1191103839514046465)
 
