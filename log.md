@@ -107,3 +107,15 @@
 **Thoughts**: this mini-challenge highlighted areas to revisit as well as helped me see that this is doable
 
 **Link(s) to work**: {day 10 Tweet] (https://mobile.twitter.com/amaelibu/status/1187201277081673729)
+
+
+### Day 12-18: October 24 - October 30, 2019
+##### 
+
+**Progress**: read & worked through several #html tutorials on #w3school. also read articles on  #freeCodeCamp site.
+**Thoughts**: been quite sick and without computer access. managed to read on my phone each day, but need to get back on line. i am breaking the rules of the #100DaysOfCode.
+
+**Link(s) to work**: {day 12-18 Tweet] (https://twitter.com/amaelibu/status/1189894290568286208)
+
+
+
