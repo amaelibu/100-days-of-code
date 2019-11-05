@@ -126,3 +126,11 @@
 
 **Link(s) to work**: {days 19-23 Tweet] (https://twitter.com/amaelibu/status/1191103839514046465)
 
+### Day 24: November 4, 2019
+##### 
+
+**Progress**: watched 1st 25 minutes of CSS tutorial 3 times.
+**Thoughts**: viewing tutorial will stretch length of time spent on lessons but will deepen my understanding of concepts.
+
+**Link(s) to work**: {day 24 Tweet] (https://mobile.twitter.com/amaelibu/status/1191565369263185922)
+
