@@ -134,3 +134,11 @@
 
 **Link(s) to work**: {day 24 Tweet] (https://mobile.twitter.com/amaelibu/status/1191565369263185922)
 
+
+### Day 25: November 5, 2019
+##### 
+
+**Progress**: completed CSS tutorial times.
+**Thoughts**: hoping to make faster progress with CSS than i did with html/html5 lessons. i don't want to spend too much time viewing tutorials, but i need to be sure i understand the concepts to make progress.
+
+**Link(s) to work**: {day 25 Tweet] (https://twitter.com/amaelibu/status/1191892820874944513)
