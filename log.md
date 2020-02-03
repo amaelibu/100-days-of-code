@@ -142,3 +142,12 @@
 **Thoughts**: hoping to make faster progress with CSS than i did with html/html5 lessons. i don't want to spend too much time viewing tutorials, but i need to be sure i understand the concepts to make progress.
 
 **Link(s) to work**: {day 25 Tweet] (https://twitter.com/amaelibu/status/1191892820874944513)
+
+
+### Day 26: February 3, 2020
+##### 
+
+**Progress**: completed 7 CSS tutorial lessons on Freecodecam.
+**Thoughts**: gifted a new chromebook so able to work on this from home. feeling more committed after an dinformational interview with E who made the transition from HR to data analyst within 5 months.
+
+**Link(s) to work**: {day 26 Tweet] (https://twitter.com/amaelibu/status/1224426285222461444)
