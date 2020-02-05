@@ -151,3 +151,12 @@
 **Thoughts**: gifted a new chromebook so able to work on this from home. feeling more committed after an dinformational interview with E who made the transition from HR to data analyst within 5 months.
 
 **Link(s) to work**: {day 26 Tweet] (https://twitter.com/amaelibu/status/1224426285222461444)
+
+
+### Day 27: February 4, 2020
+##### 
+
+**Progress**: completed the CSS tutorial lessons on Freecodecamp!
+**Thoughts**: today went much smoother than yesterday. i think that the differenc was that i was not trying to complete a certain number of lessons in a given amount of time. i focused on understanding the lessons and moved along nicely. i did use the hint video 4 times towards the end, so i may revisit those sections. was very interested in the fallback values; typos are my Achilles' heel. 
+
+**Link(s) to work**: {day 27 Tweet] (https://twitter.com/amaelibu/status/1224909535502065664
