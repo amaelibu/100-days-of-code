@@ -165,7 +165,7 @@
 ### Day 28: February 5, 2020
 ##### 
 
-**Progress**: started the Applied Visual Design module & completed 10 lessons. 
+**Progress**: started the Applied Visual Design module & completed 10 lessons 
 **Thoughts**:  going to spend a some more time with the vocab so that i can focus more effort on problem solving. spent a lot of time trying to remember what things "were" versus what they "do".
 
 **Link(s) to work**: {day 28 Tweet] (https://twitter.com/amaelibu/status/1225274894897815552
