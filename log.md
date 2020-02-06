@@ -160,3 +160,12 @@
 **Thoughts**: today went much smoother than yesterday. i think that the differenc was that i was not trying to complete a certain number of lessons in a given amount of time. i focused on understanding the lessons and moved along nicely. i did use the hint video 4 times towards the end, so i may revisit those sections. was very interested in the fallback values; typos are my Achilles' heel. 
 
 **Link(s) to work**: {day 27 Tweet] (https://twitter.com/amaelibu/status/1224909535502065664
+
+
+### Day 28: February 5, 2020
+##### 
+
+**Progress**: started the Applied Visual Design module & completed 10 lessons. 
+**Thoughts**:  going to spend a some more time with the vocab so that i can focus more effort on problem solving. spent a lot of time trying to remember what things "were" versus what they "do".
+
+**Link(s) to work**: {day 28 Tweet] (https://twitter.com/amaelibu/status/1225274894897815552
