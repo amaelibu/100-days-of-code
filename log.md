@@ -169,3 +169,12 @@
 **Thoughts**:  going to spend a some more time with the vocab so that i can focus more effort on problem solving. spent a lot of time trying to remember what things "were" versus what they "do".
 
 **Link(s) to work**: {day 28 Tweet] (https://twitter.com/amaelibu/status/1225274894897815552
+
+
+### Day 29: February 6, 2020
+##### 
+
+**Progress**: continued lessons and read Code Academy articless
+**Thoughts**:  bookmarked for future use
+
+**Link(s) to work**: {day 29 Tweet] https://twitter.com/amaelibu/status/1225644693486096387
