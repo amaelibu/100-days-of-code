@@ -178,3 +178,12 @@
 **Thoughts**:  bookmarked for future use
 
 **Link(s) to work**: {day 29 Tweet] https://twitter.com/amaelibu/status/1225644693486096387
+
+
+### Day 30: February 7, 2020
+##### 
+
+**Progress**: completed 18 lessons in Applied Visual Design module on freeCodeCamp
+**Thoughts**:  getting back into the flow of things. better able to apply reasoning to the challenges.
+
+**Link(s) to work**: {day 30 Tweet] https://twitter.com/amaelibu/status/1226002966060130304
