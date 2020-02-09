@@ -187,3 +187,12 @@
 **Thoughts**:  getting back into the flow of things. better able to apply reasoning to the challenges.
 
 **Link(s) to work**: {day 30 Tweet] https://twitter.com/amaelibu/status/1226002966060130304
+
+
+### Day 31: February 8, 2020
+##### 
+
+**Progress**: completed the Applied Visual Design module on freeCodeCamp!
+**Thoughts**:  enjoyed the animations, especially the twinkling stars. def need to be mindful of commas and semi-colons.
+
+**Link(s) to work**: {day 31 Tweet] https://twitter.com/amaelibu/status/1226331807022559232
