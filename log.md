@@ -196,3 +196,13 @@
 **Thoughts**:  enjoyed the animations, especially the twinkling stars. def need to be mindful of commas and semi-colons.
 
 **Link(s) to work**: {day 31 Tweet] https://twitter.com/amaelibu/status/1226331807022559232
+
+
+
+### Day 32: February 9, 2020
+##### 
+
+**Progress**: completed the Applied Accessibility module on freeCodeCamp
+**Thoughts**:  very intresting to see the impact that specificity (as opposed to just using div, or p) can improve both accessibility and useability.
+
+**Link(s) to work**: {day 32 Tweet]https://twitter.com/amaelibu/status/1226628902614917120
