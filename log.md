@@ -206,3 +206,11 @@
 **Thoughts**:  very intresting to see the impact that specificity (as opposed to just using div, or p) can improve both accessibility and useability.
 
 **Link(s) to work**: {day 32 Tweet]https://twitter.com/amaelibu/status/1226628902614917120
+
+### Day 33: February 10, 2020
+##### 
+
+**Progress**: began the Responsive Web Design module. got stuck on a section of a 3 part lesson.
+**Thoughts**: trying not to click on the hints so quickly an dwork through and figure out the lessons. 
+
+**Link(s) to work**: {day 33 Tweet]https://twitter.com/amaelibu/status/1227089161854898178
