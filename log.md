@@ -214,3 +214,12 @@
 **Thoughts**: trying not to click on the hints so quickly an dwork through and figure out the lessons. 
 
 **Link(s) to work**: {day 33 Tweet]https://twitter.com/amaelibu/status/1227089161854898178
+
+
+### Day 34: February 11, 2020
+##### 
+
+**Progress**: completed the Responsive Web Design module. 
+**Thoughts**:i was missing a single bracket. need to slow down and double check as i work. going back to basics and laying out neat code will help to prevent these types of simple errors. 
+
+**Link(s) to work**: {day 34 Tweet]https://twitter.com/amaelibu/status/1227405578248556545
